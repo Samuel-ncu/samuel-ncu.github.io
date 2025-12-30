@@ -31,7 +31,7 @@
 ### 🏆 專業認證與連結 (Credentials & Links)
 - 🎖️ [**NVIDIA DLI Instructor Profile**](https://www.nvidia.com/en-us/training/instructor-directory/bio/?instructorId=003Vv00000TAU91IAH)
 - 🔗 [**LinkedIn Profile**](https://www.linkedin.com/in/samuel0911259889/)
-- 📄 [**下載完整備審資料 (Full 137-page Portfolio PDF)**](#) *(建議在此處放上您 PDF 的下載連結)*
+- 📄 [**下載完整備審資料 (Full 137-page Portfolio PDF)**](#)
 
 ---
 
