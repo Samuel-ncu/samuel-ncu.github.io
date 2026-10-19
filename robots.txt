@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samuel-ncu.github.io/sitemap.xml
