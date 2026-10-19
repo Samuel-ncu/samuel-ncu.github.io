@@ -22,3 +22,12 @@ AI 教學、工程實作與跨域研究的公開個人入口，包含教學、�
 
 內容於 2026-10-19 整理。研究方向不代表已完成產品。公開聯絡信箱以中央大學師資資料為依據。
 DLI 教材與活動碼維持私有，不在此站發布。未加入追蹤碼、分析服務或第三方字型。
+
+## 三語版本
+
+- 繁體中文：https://samuel-ncu.github.io/
+- English：https://samuel-ncu.github.io/en/
+- 日本語：https://samuel-ncu.github.io/ja/
+
+每個語言有完整靜態頁面、對應的 lang、canonical 與 hreflang，不需 JavaScript。修改內容時請同步更新三語版本。
+LinkedIn 與中央大學企管系個人頁已加入聯絡區與頁尾。
